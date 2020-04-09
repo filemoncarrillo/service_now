@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="mytable" max_length="40" name="x_481373_myfirstap_mytable" text_index="true" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="Fieldone" max_length="40" name="fieldone" type="string"/>
+    </element>
+</database>
